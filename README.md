@@ -12,7 +12,7 @@ pip install acelerate
 
 need pytorch installed according to cuda
 
-Project_code folder contains 2 folder
+This Repo contains 2 folder
 
 1: DAIC_WOZ containing:
 bert:- bert-fine tuned code
